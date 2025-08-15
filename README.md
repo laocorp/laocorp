@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=336791&center=true&width=500&lines=¡Hola!+Soy+Jose+Caldera;Desarrollador+Web;Analista+de+Datos" alt="Texto animado de bienvenida" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=336791&center=true&width=500&lines=¡Hola!+Soy+Jose+Caldera;Desarrollador+Web;Cientifico+de+Datos" alt="Texto animado de bienvenida" />
 </p>
 
 <table>
