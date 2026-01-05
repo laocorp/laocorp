@@ -1,69 +1,137 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=336791&center=true&width=500&lines=¡Hola!+Soy+Jose+Caldera;Desarrollador+Web;Cientifico+de+Datos" alt="Texto animado de bienvenida" />
-</p>
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>¡Bienvenido/a a mi Rincón Digital! 👋</h3>
-      <p>
-        Soy un desarrollador con una base sólida en el <strong>desarrollo web (PHP, JavaScript, MySQL)</strong> y una creciente pasión por el universo de los datos.
-      </p>
-      <p>
-        Actualmente, estoy en una emocionante transición, enfocando toda mi energía en aprender <strong>Python</strong> y sumergirme en el mundo del <strong>Data Science</strong> para transformar datos en historias y soluciones inteligentes.
-      </p>
-      <ul>
-        <li>🌱 Mi meta principal: Dominar el ecosistema de Data Science en Python.</li>
-        <li>🚀 Busco oportunidades para aplicar mis habilidades y seguir creciendo.</li>
-        <li>💬 Hablemos sobre desarrollo web, Python, o cualquier tecnología fascinante.</li>
-      </ul>
-    </td>
-  <td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dpc3N2c2I4cnNzb252NGRyN2V2MjZ2c3JzbG5qYjV1b3c4emw4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFZvB7VIXBgiz3o2e4/giphy.gif" alt="GIF animado de código cayendo estilo Matrix" />
-</td>
-  </tr>
-</table>
+<!-- Header Section -->
+<div align="center">
+  
+  # José Caldera
+  
+  **Founder @ [LAOCORP](https://laocorp.lat) · AI Automation Specialist · Ecuador 🇪🇨**
+  
+  [![Website](https://img.shields.io/badge/LAOCORP-laocorp.lat-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://laocorp.lat)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Caldera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onelifety/)
+  [![Email](https://img.shields.io/badge/Email-info@laocorp.lat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@laocorp.lat)
+  
+</div>
 
 ---
 
-## 🚀 Mi Stack Tecnológico
-<p align="center">
-  <strong>Backend & Frontend</strong><br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <br><br>
+## 🎯 About Me
 
-  <strong>Enfoque Actual: Python & Data Science</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
+```yaml
+name: José Caldera
+role: Founder & AI Automation Engineer
+company: LAOCORP
+location: Ecuador
+focus: Building AI-powered automation solutions for businesses
 
----
+currently:
+  - Developing conversational AI agents for WhatsApp & Web
+  - Architecting no-code/low-code automation workflows
+  - Scaling LAOCORP across LATAM
 
-## 🏆 Trofeos y Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laocorp&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laocorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub">
-</p>
+background:
+  - 5+ years in Web Development (PHP, JavaScript, MySQL)
+  - Transitioned to AI/Automation in 2024
+  - Self-taught Data Science practitioner
+```
 
 ---
 
-## 🔗 Conectemos
-<p align="center">
-  ¡Gracias por visitar mi perfil! No dudes en contactarme.
-  <br><br>
-  <a href="https://linkedin.com/in/onelifety/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jcakdera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+<details open>
+<summary><strong>AI & Automation</strong></summary>
+<br>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Make](https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=flat-square&logo=make&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Web Development</strong></summary>
+<br>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Backend & Databases</strong></summary>
+<br>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![NocoDB](https://img.shields.io/badge/NocoDB-1F3B4D?style=flat-square&logo=nocodb&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Infrastructure & Tools</strong></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+---
+
+## 🚀 What I Build at LAOCORP
+
+| Solution | Description | Tech |
+|----------|-------------|------|
+| **AI Chatbots** | Conversational agents for WhatsApp, Web & Instagram | GPT-4, Groq, n8n |
+| **Sales Automation** | Lead qualification, follow-up sequences, CRM sync | n8n, Make, Webhooks |
+| **Booking Systems** | Automated scheduling with Cal.com integration | Cal.com API, n8n |
+| **Data Pipelines** | Automated reporting, data sync between platforms | Python, APIs |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laocorp&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff)
+  
+</div>
+
+<!-- Alternative: If the graph doesn't load, you can use this simpler version:
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laocorp&theme=github_dark" alt="GitHub Profile Summary">
+</div>
+-->
+
+---
+
+## 💼 Open to Collaborate On
+
+- 🤖 AI chatbot implementations for businesses
+- ⚡ Process automation projects (no-code/low-code)
+- 🔌 API integrations and data pipelines
+- 📈 SaaS MVPs and web applications
+
+---
+
+<div align="center">
+  
+  ### Let's Build Something Together
+  
+  **[🌐 laocorp.lat](https://laocorp.lat)** · **[📧 info@laocorp.lat](mailto:info@laocorp.lat)** · **[💬 WhatsApp](https://wa.me/593979079066)**
+  
+  ---
+  
+  <sub>*"Automatizamos negocios con inteligencia artificial"*</sub>
+  
+</div>
